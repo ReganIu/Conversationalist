@@ -21,7 +21,6 @@ grammar coffee;
           pay |
           wet |
           like |
-          bike |
           hike |
           green |
           black |
