@@ -1,6 +1,14 @@
 About
 =====
 
-This is a demonstration for Pocketsphinx on Android
+Using CMUSphinx, an open-source speech recognition engine, we developed a fully voice-controlled Android application. Our app
+addresses the lack of spoken-language practice available in electronic form. Current applications, namely Duolingo, have a very weak
+speaking module that is both difficult and unengaging to use. Our application solves this problem by taking users through everyday (actually
+useful) conversation topics, including the ordering of a coffee.
 
-See for details http://cmusphinx.sourceforge.net/wiki/tutorialandroid
+In the future we hope to implement a version with multiple languages, cross-platform usage, and a proliferation of interesting situations
+and conversations. We could also use modern-day machine learning algorithms to train an AI to a specific user's idiolect (i.e. speaking style)
+and better recognize unique phonetic pronounciations in a person-to-person context.
+
+You can demo this app by cloning to your own repository and running it on an Android device. 
+
